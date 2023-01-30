@@ -1,10 +1,8 @@
-<<<<<<< HEAD
+Hello
 Touch README.txt
 git add README.txt
 git comvit
-=======
-Hello
->>>>>>> firstbranch
+
 Git branch firstbranch
 Git checkout firstbranch
 Git status
